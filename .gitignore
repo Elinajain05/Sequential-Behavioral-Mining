@@ -1,0 +1,6 @@
+.env
+venv
+SBM/native_host.py
+__pycache__
+flask_server.log
+type.ipynb
